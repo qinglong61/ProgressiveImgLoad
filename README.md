@@ -50,6 +50,10 @@ NSArray *dataArr = extractIDATFromData(imgData);
 updateImg(imgView, dataArr, 0);
 ```
 
+## Demonstration
+
+![Progressive Image Loading Demo](https://raw.githubusercontent.com/qinglong61/ProgressiveImgLoad/refs/heads/main/ProgressiveImgLoad/ProgressiveImgLoad/demo.gif)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
